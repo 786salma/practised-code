@@ -1,0 +1,29 @@
+body{
+    background-image: url(down.jpg);
+}
+h1{
+    color:blueviolet;
+}
+div{
+    border : 10px double rgb(54, 199, 218);
+    background-color: aqua;
+}
+#dragStart{
+    background-color: burlywood;
+    border: 1000px initial;
+    width: 250px;
+    height :1000px;
+    position: absolute;
+}
+#dargstop{
+    background-color: gold;
+    border: 10px dotted;
+    width: 150px;
+    height :1000px;
+    float: right;
+
+}
+#snap{
+    width: 200px;
+    height: 300px;
+}

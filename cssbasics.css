@@ -1,0 +1,25 @@
+h1, p{
+    color: blueviolet;
+}
+ul{
+    color: aqua;
+}
+.paragragh{
+    background-color: burlywood;
+    text-shadow: 10px solid pink;
+
+}
+#div1{
+    font-size: 20px;
+}
+a{
+    color: green;
+}
+a:hover{
+    color: blue;
+}
+a:visited{
+    color: brown;
+}
+
+
